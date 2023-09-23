@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**MontseGutierrez/MontseGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Montse Gutierrez and I study a master's degree in cell biology at CINVESTAV.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently lookinging for work in the biotechnology area. 
+- 🌱 I’m currently learning programming (Phyton, R, Html, JavaScript).
+- 👯 I’m looking to collaborate on bioinformatics projects.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about molecular dockings, genomics analyzes and biotechnology.
+- 📫 How to reach me: montsegs16@gmail.com [LinkedIn](https://www.linkedin.com/in/montserratgutierrezsoto/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I´m catlover and Im avid reader.
+
+Mi primera línea de código en Html:
+```
+print('Hola, mundo!')
+
+El markdown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx/)
